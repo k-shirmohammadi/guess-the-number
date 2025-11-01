@@ -1,0 +1,9 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Build artefacts
+*.class
